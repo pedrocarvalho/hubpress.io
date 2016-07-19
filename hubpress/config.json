@@ -8,7 +8,7 @@
   "site": {
     "title": "Blog of Pedro Carvalho",
     "description": "My name is Pedro Carvalho and I am the founder and CEO of Atomize Software. This is my personal blog.",
-    "cover": ""
+    "cover": "/images/robot.jpg"
   },
   "socialnetwork": {
     "twitter": "https://twitter.com/pedrocarvalho",

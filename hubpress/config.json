@@ -2,7 +2,8 @@
   "meta": {
     "username": "pedrocarvalho",
     "repositoryName": "hubpress.io",
-    "branch": "gh-pages"
+    "branch": "gh-pages",
+    "cname": "pedrocarvalho.xyz"
   },
   "theme": {
     "name": "uno"

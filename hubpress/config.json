@@ -5,6 +5,15 @@
     "branch": "gh-pages",
     "cname": "pedrocarvalho.xyz"
   },
+  "site": {
+    "title": "Blog of Pedro Carvalho",
+    "description": "My name is Pedro Carvalho and I am the founder and CEO of Atomize Software. This is my personal blog.",
+    "cover": ""
+  },
+  "socialnetwork": {
+    "twitter": "https://twitter.com/pedrocarvalho",
+    "linkedin": "https://www.linkedin.com/in/pcarvalho"
+  },
   "theme": {
     "name": "uno"
   }
